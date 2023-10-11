@@ -7,5 +7,5 @@
 <br>
 <h2>Projeto esta responsivo para mobile.</h2>
 <br>
-<img src="https://raw.githubusercontent.com/Weslley-silva23/Projeto-we-care/main/Captura%20de%20tela%202023-09-11%20155043.png">
-<BR>
+<img src="https://github.com/Weslley-silva23/Projeto-we-care/blob/main/Projeto%20we%20care.png?raw=true">
+<img src="https://github.com/Weslley-silva23/Projeto-we-care/blob/main/projeto%20we%20care%20mobile.png?raw=true">
